@@ -1,0 +1,5 @@
+bs4
+spacy
+sentence-transformers
+numpy
+ebooklib
